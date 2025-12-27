@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised-Learning-purple)
+![SOM](https://img.shields.io/badge/Algorithm-SOM-green)
+![Healthcare](https://img.shields.io/badge/Application-Healthcare-red)
+
 # 🧠 Self-Organizing Map (SOM) — Patient Classification
 
 This project implements a **Kohonen Self-Organizing Map (SOM)** in Python to classify time-series marker data from healthy and patient subjects. It compares SOM with other machine learning methods (K-Means and k-Nearest Neighbors) and performs predictions on unseen test data.
